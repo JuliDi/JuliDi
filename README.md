@@ -1,4 +1,4 @@
-### Hi there 👋
+### _When in doubt, use a Taylor expansion!_
 
 <!--
 **JuliDi/JuliDi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
